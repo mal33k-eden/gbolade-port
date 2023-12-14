@@ -10,7 +10,7 @@ let clickCount = 0;
 var changeColor = function () {
   //   if (counter >= 4) {
   //     counter = 0;
-  //   }
+  //   im a new changed line}
   counter = (counter + 1) % color.length;
   colorChange.style.background = color[counter];
 };
