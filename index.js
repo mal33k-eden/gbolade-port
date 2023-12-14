@@ -15,6 +15,7 @@ var changeColor = function () {
   colorChange.style.background = color[counter];
 };
 // for double click event
+
 var loopColor = function () {
   if (newcounter >= 4) {
     newcounter = 0;
